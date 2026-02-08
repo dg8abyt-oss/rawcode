@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/",
-      "destination": "/install.user.js"
+      "destination": "/install.user.js",
+      "permanent": false
     }
   ],
   "headers": [
